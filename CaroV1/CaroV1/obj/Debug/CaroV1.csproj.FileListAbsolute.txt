@@ -1,0 +1,9 @@
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\bin\Debug\CaroV1.exe.config
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\obj\Debug\CaroV1.Properties.Resources.resources
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\obj\Debug\CaroV1.csproj.GenerateResource.Cache
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\bin\Debug\CaroV1.exe
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\bin\Debug\CaroV1.pdb
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\obj\Debug\CaroV1.exe
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\obj\Debug\CaroV1.pdb
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\obj\Debug\CaroV1.csprojResolveAssemblyReference.cache
+E:\Projects\Windows Phone Apps\CaroV1\CaroV1\obj\Debug\CaroV1.MainGame.resources
